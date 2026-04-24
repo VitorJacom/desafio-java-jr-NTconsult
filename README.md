@@ -140,7 +140,7 @@ Você pode rodar toda a suíte de testes diretamente pela linha de comando utili
 **Para rodar todos os testes do projeto:**
 ```bash
 mvn test
-
+```
 
 ## 🧠 Justificativa das Decisões Técnicas
 
